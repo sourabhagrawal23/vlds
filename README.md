@@ -18,7 +18,10 @@ If you like this repo then please give it a ⭐️
 1. Technical Requirements:
    1. [Android Studio](https://developer.android.com/studio)
    2. Mobile with Android 4.4 or higher.
-2. Setting Up:
+   
+## Quick Setup🚀
+   
+1. Setting Up:
    1. Open the repo using Android Studio.
    2. Connect your phone to PC with debugging mode enabled in it.
    3. Just press the Run button at the top right corner of the android studio.
