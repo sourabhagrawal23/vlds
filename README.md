@@ -4,6 +4,7 @@
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 [![Version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/Naereen/StrapDown.js)
 [![made-with-Java](https://img.shields.io/badge/Made%20with-Java-1f425f.svg)](https://www.java.com/en/)
+[![made-with-XML](https://img.shields.io/badge/Made%20with-XML-1f425f.svg)](https://www.xml.com/)
 [![Beta status](https://img.shields.io/pypi/status/ansicolortags.svg)](https://github.com/sourabhagrawal23/echo)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/sourabhagrawal23/echo/pulls)
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://linkedin.com/in/sourabhkhs)
