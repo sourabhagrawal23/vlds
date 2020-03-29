@@ -28,16 +28,16 @@ If you like this repo then please give it a ⭐️
 The Project may involve any sort of bug as it is currently under development and is subject to change.
 ## Screenshots
 <kbd>
-<img src="https://raw.githubusercontent.com/sourabhagrawal23/Echo/master/Screenshots/1.png" width="200" height="350"></kbd>&nbsp;&nbsp;&nbsp;&nbsp;<kbd><img src="https://raw.githubusercontent.com/sourabhagrawal23/Echo/master/Screenshots/2.png" width="200" height="350"></kbd>
-&nbsp;&nbsp;&nbsp;&nbsp;<kbd><img src="https://raw.githubusercontent.com/sourabhagrawal23/Echo/master/Screenshots/3.png" width="200" height="350"></kbd>
+<img src="https://raw.githubusercontent.com/sourabhagrawal23/vlds/master/Screenshots/1.png" width="200" height="350"></kbd>&nbsp;&nbsp;&nbsp;&nbsp;<kbd><img src="https://raw.githubusercontent.com/sourabhagrawal23/vlds/master/Screenshots/2.png" width="200" height="350"></kbd>
+&nbsp;&nbsp;&nbsp;&nbsp;<kbd><img src="https://raw.githubusercontent.com/sourabhagrawal23/vlds/master/Screenshots/3.png" width="200" height="350"></kbd>
 
-<kbd><img src="https://raw.githubusercontent.com/sourabhagrawal23/Echo/master/Screenshots/4.png" width="200" height="350"></kbd>&nbsp;&nbsp;&nbsp;&nbsp;<kbd><img src="https://raw.githubusercontent.com/sourabhagrawal23/Echo/master/Screenshots/5.png" width="200" height="350"></kbd>
-&nbsp;&nbsp;&nbsp;&nbsp;<kbd><img src="https://raw.githubusercontent.com/sourabhagrawal23/Echo/master/Screenshots/6.png" width="200" height="350"></kbd>
+<kbd><img src="https://raw.githubusercontent.com/sourabhagrawal23/vlds/master/Screenshots/4.png" width="200" height="350"></kbd>&nbsp;&nbsp;&nbsp;&nbsp;<kbd><img src="https://raw.githubusercontent.com/sourabhagrawal23/vlds/master/Screenshots/5.png" width="200" height="350"></kbd>
+&nbsp;&nbsp;&nbsp;&nbsp;<kbd><img src="https://raw.githubusercontent.com/sourabhagrawal23/vlds/master/Screenshots/6.png" width="200" height="350"></kbd>
 
-<kbd><img src="https://raw.githubusercontent.com/sourabhagrawal23/Echo/master/Screenshots/7.png" width="200" height="350"></kbd>&nbsp;&nbsp;&nbsp;&nbsp;<kbd><img src="https://raw.githubusercontent.com/sourabhagrawal23/Echo/master/Screenshots/8.png" width="200" height="350"></kbd>
-&nbsp;&nbsp;&nbsp;&nbsp;<kbd><img src="https://raw.githubusercontent.com/sourabhagrawal23/Echo/master/Screenshots/9.png" width="200" height="350"></kbd>
+<kbd><img src="https://raw.githubusercontent.com/sourabhagrawal23/vlds/master/Screenshots/7.png" width="200" height="350"></kbd>&nbsp;&nbsp;&nbsp;&nbsp;<kbd><img src="https://raw.githubusercontent.com/sourabhagrawal23/vlds/master/Screenshots/8.png" width="200" height="350"></kbd>
+&nbsp;&nbsp;&nbsp;&nbsp;<kbd><img src="https://raw.githubusercontent.com/sourabhagrawal23/vlds/master/Screenshots/9.png" width="200" height="350"></kbd>
 
-<kbd><img src="https://raw.githubusercontent.com/sourabhagrawal23/Echo/master/Screenshots/10.png" width="200" height="350"></kbd>&nbsp;&nbsp;&nbsp;&nbsp;<kbd><img src="https://raw.githubusercontent.com/sourabhagrawal23/Echo/master/Screenshots/11.png" width="200" height="350"></kbd>
+<kbd><img src="https://raw.githubusercontent.com/sourabhagrawal23/vlds/master/Screenshots/10.png" width="200" height="350"></kbd>&nbsp;&nbsp;&nbsp;&nbsp;<kbd><img src="https://raw.githubusercontent.com/sourabhagrawal23/vlds/master/Screenshots/11.png" width="200" height="350"></kbd>
 
 # Developed and Maintained by
 
